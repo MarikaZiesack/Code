@@ -1,4 +1,5 @@
 %scriptExperiment_4_v1
+%this is now on github
 
 %substract background
 background = mean(OD(1,:));
